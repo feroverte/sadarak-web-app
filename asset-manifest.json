@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SadarakWeb/static/css/main.1af8a936.css",
+    "main.js": "/SadarakWeb/static/js/main.44b17f3a.js",
+    "static/js/453.ed3810f9.chunk.js": "/SadarakWeb/static/js/453.ed3810f9.chunk.js",
+    "static/media/sneakers.png": "/SadarakWeb/static/media/sneakers.3d51f0d48ce5855812a2.png",
+    "static/media/toys.png": "/SadarakWeb/static/media/toys.cbd8deab3f79cbc7b76a.png",
+    "static/media/electronics.png": "/SadarakWeb/static/media/electronics.b6286569e995ac8dd720.png",
+    "static/media/furniture.png": "/SadarakWeb/static/media/furniture.444dc9f1d092ccd493c4.png",
+    "static/media/clothing.png": "/SadarakWeb/static/media/clothing.1186cb18e8d3d27c80a2.png",
+    "static/media/appliances.png": "/SadarakWeb/static/media/appliances.f6a3bf59a2ee2590761b.png",
+    "static/media/instagram.png": "/SadarakWeb/static/media/instagram.ac31e22207e23b7186e8.png",
+    "static/media/banner.jpg": "/SadarakWeb/static/media/banner.21af40ba1860b08cddcb.jpg",
+    "static/media/auth-bg.png": "/SadarakWeb/static/media/auth-bg.383af06b2799713dac97.png",
+    "static/media/google.png": "/SadarakWeb/static/media/google.cadee8cdb0c0afb1a713.png",
+    "index.html": "/SadarakWeb/index.html",
+    "main.1af8a936.css.map": "/SadarakWeb/static/css/main.1af8a936.css.map",
+    "main.44b17f3a.js.map": "/SadarakWeb/static/js/main.44b17f3a.js.map",
+    "453.ed3810f9.chunk.js.map": "/SadarakWeb/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af8a936.css",
+    "static/js/main.44b17f3a.js"
+  ]
+}
